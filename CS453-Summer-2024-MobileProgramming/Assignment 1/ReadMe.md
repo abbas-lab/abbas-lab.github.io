@@ -9,4 +9,4 @@ Abbas Zaidi
 ## Instructions to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/abbas-lab/abbas-lab.github.io/new/main/CS453-Summer-2024-MobileProgramming
